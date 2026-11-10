@@ -76,7 +76,7 @@ GEM
       tzinfo (~> 2.0, >= 2.0.5)
       uri (>= 0.13.1)
     base64 (0.2.0)
-    bcrypt (3.1.18)
+    bcrypt (3.1.22)
     bigdecimal (3.1.6)
     bindex (0.8.1)
     builder (3.2.4)
@@ -224,7 +224,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bcrypt (~> 3.1.7)
+  bcrypt (~> 3.1.22)
   cgi
   csv
   debug
